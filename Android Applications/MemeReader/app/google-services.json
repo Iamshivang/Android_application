@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832188214369",
+    "project_id": "memereader-a36a6",
+    "storage_bucket": "memereader-a36a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832188214369:android:6af91dac59c382cfd60e20",
+        "android_client_info": {
+          "package_name": "mr.vaibhav.memereader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832188214369-6o13t57goov7lk0c0grngsh1ilhqtrj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mr.vaibhav.memereader",
+            "certificate_hash": "79ad0d27ab024a50fad9d6c7e7d01e0e0e5cdf44"
+          }
+        },
+        {
+          "client_id": "832188214369-37ca9codr6hiiu7r0kfnq0r0ho4cvbg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuowEiQC-IjWwS2qcDfBZGk56UEh1nwIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832188214369-37ca9codr6hiiu7r0kfnq0r0ho4cvbg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
