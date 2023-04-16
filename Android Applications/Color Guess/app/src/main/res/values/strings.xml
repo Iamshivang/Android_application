@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Color Guess</string>
+
+    <string name="Color_Guess">Color Guess</string>
+    <string name="please_enter_your_name">Enter your name.</string>
+    <string name="name">Name</string>
+    <string name="memorize_the_color_and_its_sequence">Memorize the COLOR and its Sequence.</string>
+    <string name="play">PLAY</string>
+    <string name="submit">SUBMIT</string>
+    <string name="reset">RESET</string>
+    <string name="arrange_the_respective_colors_in_correct_order">Arrange the respective colors in CORRECT order by drag and drop</string>
+    <string name="booyah">booyah !</string>
+    <string name="you_win">YOU WIN</string>
+    <string name="better_luck_next_time">Better Luck Next Time.</string>
+    <string name="you_lose">YOU LOSE!</string>
+    <string name="retry">RETRY</string>
+    <string name="color_guess_game">COLOR GUESS</string>
+    <string name="game">GAME</string>
+    <string name="history">HISTORY</string>
+    <string name="no_records_available">No records available!</string>
+</resources>
